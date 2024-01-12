@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+// https://cafeu.vercel.app/_next/static/media/banner-bg.563b99ab.jpg
