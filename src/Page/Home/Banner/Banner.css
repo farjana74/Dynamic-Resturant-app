@@ -8,3 +8,43 @@
 .banner-bg-1 {
     height: 700px;
 }
+.banner-text{
+    font-size: 50px;
+    font-weight: bold;
+}
+.hero-img {
+    animation: move 2.5s linear infinite;
+  }
+  .text-spice{
+    color: orangered;
+  }
+  .banner-header{
+    color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .order-btn{
+    outline: none;
+    background: #c33;
+    color: #fff;
+    padding: 10px 25px;
+    transition: .3s;
+    display: inline-block;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  @keyframes move {
+    0% {
+      transform: translate(-15px, 0px);
+    }
+  
+    50% {
+      transform: translate(0px, -15px);
+  
+    }
+  
+    100% {
+      transform: translate(-15px, 0px);
+    }
+  }
