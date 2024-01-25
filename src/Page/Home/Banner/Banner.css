@@ -1,0 +1,10 @@
+.banner-bg{
+    background-image: url("https://cafeu.vercel.app/_next/static/media/banner-bg.563b99ab.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+.banner-bg-1 {
+    height: 700px;
+}
