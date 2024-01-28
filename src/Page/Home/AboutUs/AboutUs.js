@@ -6,10 +6,10 @@ import about4 from "../../../images/4 (1).png";
 import "./AboutUs.css";
 const AboutUs = () => {
   return (
-    <div className="pt-5">
+    <div className="py-5">
     <div className="container py-5">
-      <div className="row gx-5">
-        <div className="col-xl-3 col-md-6 col-lg-3 col-sm-6 mb-4 border p-3 ">
+      <div className="row g-3">
+        <div className="col-xl-3 col-md-6 col-lg-3 col-sm-6 mb-4 border p-3    ">
           <div className="text-center">
             <img className="about-img" src={about1} alt="" />
           </div>

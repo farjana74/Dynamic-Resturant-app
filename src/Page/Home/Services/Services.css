@@ -1,0 +1,51 @@
+.service-bg{
+    background-image: url("https://cafeu.vercel.app/_next/static/media/ad-ban-bg.b22b5bc3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 288px;
+
+}
+.section-height{
+    height: 230px;
+}
+.service-bg{
+    background: url("http://newhospitalhtml.bdtask.com/images/appointment-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    isolation: isolate;
+   
+}
+.service-bg::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: #0000007d;
+    opacity: .9;
+}
+.services-header{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    line-height: 1.4;
+}
+.services-des{
+    font-size: 15px;
+    color: white;
+}
+.service-input{
+    width: 70%;
+    border: none;
+    outline: none;
+    padding: 12px;
+}
+.service-button{
+    padding: 12px;
+    border: none;
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+}
