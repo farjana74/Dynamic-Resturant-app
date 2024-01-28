@@ -2,10 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 import Banner from './Page/Home/Banner/Banner';
 import "bootstrap/dist/css/bootstrap.min.css";
+import AboutUs from './Page/Home/AboutUs/AboutUs';
 function App() {
   return (
     <div>
      <Banner/>
+   
+     <AboutUs/>
     </div>
   );
 }

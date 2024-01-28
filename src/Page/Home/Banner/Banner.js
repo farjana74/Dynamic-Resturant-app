@@ -7,7 +7,7 @@ import Carousel from "react-bootstrap/Carousel";
 import Navigation from "../../Shared/Navigation/Navigation";
 const Banner = () => {
   return (
-    <div className="banner-bg">
+    <div className="banner-bg mb-5">
         <Navigation/>
       <Carousel data-bs-theme="dark">
         <Carousel.Item>
