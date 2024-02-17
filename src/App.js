@@ -6,6 +6,7 @@ import AboutUs from './Page/Home/AboutUs/AboutUs';
 import Services from './Page/Home/Services/Services';
 import ChooseUs from './Page/Home/ChooseUs/ChooseUs';
 import LatestBlog from './Page/Home/LatestBlog/LatestBlog';
+import OrderUs from './Page/Home/OrderUs/OrderUs';
 function App() {
   return (
     <div>
@@ -14,6 +15,10 @@ function App() {
      <Services/>
      <ChooseUs/>
      <LatestBlog />
+     <br />
+     <br />
+     <br />
+     <OrderUs />
     </div>
   );
 }

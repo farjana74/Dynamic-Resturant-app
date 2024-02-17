@@ -4,3 +4,26 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.blog-header{
+    color:tomato;
+    text-align: center;
+}
+.blog-second-header{
+    color:black;
+    font-weight: 600;
+    text-align: center;
+}
+.blog-image-header{
+    font-size: 20px;
+    color: #292929;
+    font-weight: 600;
+    transition: .3s;
+    
+}
+.blog-image-header:hover{
+    color: tomato;
+    cursor: pointer;
+}
+.blog-details{
+    background-color: white;
+}

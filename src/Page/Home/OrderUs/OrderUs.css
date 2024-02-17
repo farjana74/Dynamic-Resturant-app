@@ -1,0 +1,21 @@
+.order-bg{
+    background-image: url("../../../images/orderbg.png");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;      
+    height: 440px;    
+    z-index: -1;
+}
+.order-header{
+    font-size: 45px;
+}
+.app-first{
+    vertical-align: middle;
+   overflow-clip-margin: content-box;;
+    animation: move 2.5s linear infinite;
+}
+.app-second{
+    vertical-align: middle;
+   overflow-clip-margin: content-box;;
+    animation: move 2.5s linear infinite;
+}
