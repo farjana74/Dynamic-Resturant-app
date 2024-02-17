@@ -3,7 +3,7 @@ import "./Services.css";
 
 const Services = () => {
   return (
-    <div className="service-bg pt-5">
+    <div className="service-bg pt-5 pb-5">
       <div className="container">
         <div className="row section-height d-flex justify-content-between align-items-center">
           <div className="col-md-6">

@@ -1,0 +1,23 @@
+.chose-header{
+    color: tomato;
+    font-size: 18px;
+}
+.chose-des{
+    font-size: 30px;
+    font-weight: bold;
+}
+.buffet-header1{
+    font-size: 14px;
+}
+.buffet-header{
+    font-size: 18px;
+    font-weight: bold;
+}
+.choose-button{
+    padding: 10px 15px;
+    border:none;
+    background-color: tomato;
+    color:white;
+    font-weight: bold;
+    
+}
