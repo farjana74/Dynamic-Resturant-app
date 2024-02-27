@@ -5,11 +5,11 @@ import Form from "react-bootstrap/Form";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 
-import logo from "../../../images/logo.png"
+import logo from "../../../images/logo.png";
 const Navigation = () => {
   return (
     <div className="container ">
-      <Navbar expand="lg"  >
+      <Navbar expand="lg">
         <Container fluid>
           <Navbar.Brand href="#">
             <img src={logo} alt="" />
@@ -27,9 +27,6 @@ const Navigation = () => {
               <Nav.Link href="#action1">Blog</Nav.Link>
               <Nav.Link href="#action1">Pages</Nav.Link>
               <Nav.Link href="#action1">Contact</Nav.Link>
-            
-              
-             
             </Nav>
             <Form className="d-flex">
               <Form.Control

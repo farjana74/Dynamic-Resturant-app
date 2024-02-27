@@ -10,7 +10,7 @@ const OrderUs = () => {
     <div className="container order-bg py-5 position-relative">
       <div className="row pt-2 ps-5 gy-5">
         <div className="col-md-7">
-          <h2 className="order-header">Simple Way to Order Your Food Faster</h2>
+          <h2 className="order-header">Simple Way to Order Your Food </h2>
           <p className="py-3">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eius-
             mod tempor incididunt ut labore et dolore magna aliqua. Q ipsum
