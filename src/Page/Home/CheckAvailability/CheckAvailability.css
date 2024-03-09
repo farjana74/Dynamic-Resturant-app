@@ -5,6 +5,7 @@
     background-position: center;
     position: relative;
     isolation: isolate;
+    height: 370px;
     
 }
 .available-head{
@@ -23,4 +24,16 @@
     inset: 0;
     background: #0000007d;
     opacity: .9;
+}
+.availability-hr{
+    color:tomato;
+    font-weight: 50px;
+    margin: auto;
+
+}
+.availability-time{
+    box-shadow: 0 15px 20px 1px #9c9c9c52;
+    width: 70%;
+    
+    
 }

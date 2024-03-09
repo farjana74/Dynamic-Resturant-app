@@ -7,6 +7,7 @@ import ChooseUs from "./Page/Home/ChooseUs/ChooseUs";
 import LatestBlog from "./Page/Home/LatestBlog/LatestBlog";
 import OrderUs from "./Page/Home/OrderUs/OrderUs";
 import CheckAvailability from "./Page/Home/CheckAvailability/CheckAvailability";
+import TeamMember from "./Page/Home/TeamMember/TeamMember";
 function App() {
   return (
     <div>
@@ -19,6 +20,7 @@ function App() {
       <br />
       <br />
       <CheckAvailability />
+      <TeamMember />
       
       <OrderUs />
 
