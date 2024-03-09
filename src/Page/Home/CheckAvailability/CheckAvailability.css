@@ -1,0 +1,26 @@
+.availability-bg{
+    background-image: url("../../../images/subscribe-bg.ef42635c.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    isolation: isolate;
+    
+}
+.available-head{
+    font-size: 36px;
+    color: white;
+}
+.available-des{
+    font-size: 15px;
+    color: white;
+    color:white;
+}
+.availability-bg::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: #0000007d;
+    opacity: .9;
+}
