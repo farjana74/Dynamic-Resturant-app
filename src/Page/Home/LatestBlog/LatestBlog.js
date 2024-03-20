@@ -6,7 +6,7 @@ import latestBlog3 from "../../../images/blog3.png";
 
 const LatestBlog = () => {
   return (
-    <div className="blog-bg mt-5">
+    <div className="blog-bg mt-5 pb-5">
       <div className="container py-5">
         <p className="blog-header pt-5">News & Blog</p>
         <h1 className="blog-second-header pb-5">Latest Blog</h1>
