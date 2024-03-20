@@ -8,6 +8,7 @@ import LatestBlog from "./Page/Home/LatestBlog/LatestBlog";
 import OrderUs from "./Page/Home/OrderUs/OrderUs";
 import CheckAvailability from "./Page/Home/CheckAvailability/CheckAvailability";
 import TeamMember from "./Page/Home/TeamMember/TeamMember";
+import Footer from "./Page/Shared/Footer/Footer";
 function App() {
   return (
     <div>
@@ -15,14 +16,15 @@ function App() {
       <AboutUs />
       <Services />
       <ChooseUs />
-      <LatestBlog />
+      
       <br />
       <br />
       <br />
       <CheckAvailability />
       <TeamMember />
-      
       <OrderUs />
+      <LatestBlog />
+      <Footer/>
 
       
     </div>
