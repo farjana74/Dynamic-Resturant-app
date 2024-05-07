@@ -15,6 +15,12 @@ const Footer = () => {
                 <div className="col-md-3">
                     <h4 className='py-3 text-white'>Quick Links</h4>
                     <hr className='text-white w-50 m-0 ' />
+                    <h6 className='text-white pt-3'>Home</h6>
+                    <h6 className='text-white'>About Us</h6>
+                    <h6 className='text-white'>Order</h6>
+                    <h6 className='text-white'>Review</h6>
+                    
+
 
                 </div>
                 <div className="col-md-3">
